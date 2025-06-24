@@ -1,6 +1,9 @@
 # Day1_intership-elevate_labs-
-DAY 1 – INTERNSHIP
-==================
+
+
+Basic network reconnaissance skills; understanding network service
+exposure.
+
 
 Tasks Performed:
 ----------------
